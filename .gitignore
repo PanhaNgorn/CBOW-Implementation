@@ -1,0 +1,6 @@
+# Ignore large dataset
+text8
+
+# Ignore temporary or checkpoint files
+__pycache__/
+*.ipynb_checkpoints
